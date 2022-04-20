@@ -1,5 +1,4 @@
  Olá!
-
  Esta pasta e anotação foi criada de forma local para que possa ser feito
 um commit e um push. Dessa forma aprendo a trabalhar melhor com o Git e 
 Github.
